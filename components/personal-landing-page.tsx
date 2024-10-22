@@ -10,14 +10,15 @@ export function PersonalLandingPage() {
           <h1 className="text-5xl mb-6">
             Hey <span className="text-4xl">&#128075;</span>, I&apos;m Dawid!
           </h1>
-          <p className="text-xl mb-8">
-            Self-taught nerd in all things tech
+          <p className="text-xl mb-8 break-words">
+            Self-taught software engineer, nerdy about all things tech.
             <span className="block text-base text-gray-200 mt-2">
-              Recently focusing on building highly performant and optimized
+              Currently focusing on building highly performant and optimized
               e-commerce experiences primarily using Next.js
             </span>
             <span className="block mt-2 text-xs">
-              Currently @
+              <span className="text-orange-500">Currently</span>: Frontend
+              Developer @
               <a
                 className="underline"
                 target="_blank"
