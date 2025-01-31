@@ -1,7 +1,5 @@
 import { Github, Linkedin, Twitter } from "lucide-react";
 
-/* Yes I made that with v0 */
-
 export function PersonalLandingPage() {
   return (
     <div className="flex flex-col min-h-dvh text-white">
@@ -13,8 +11,8 @@ export function PersonalLandingPage() {
           <p className="text-xl mb-8 break-words">
             Self-taught software engineer, nerdy about all things tech.
             <span className="block text-base text-gray-200 mt-2">
-              Currently focusing on building highly performant and optimized
-              e-commerce experiences primarily using Next.js
+              Focused on building highly performant and optimized enterprise
+              e-commerce experiences.
             </span>
             <span className="block mt-2 text-xs">
               <span className="text-orange-500">Currently</span>: Frontend
